@@ -1,6 +1,6 @@
 # Introduction
-## Hello My name is Matthew Edge.
-*I am a CSU Chico student majoring in computer science.*
+## Hello, my name is Matthew Edge.
+###*I am a CSU Chico student majoring in computer science.*
 **Interesting facts about me.**
 1. I am a DJ
 2. I used to be a music industry major
