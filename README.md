@@ -7,5 +7,7 @@
   3. My golf game is strong.
   4. I played water polo in high school.
   5. I'm a dog person.
-  [Visit my boring LinkedIn profile] (https://www.linkedin.com/profile/view?id=AAIAABNx9hIBXg55GWDrUyNRJrK486WtArrLNpM&trk=nav_responsive_tab_profile)
-Have a blessed day.
+
+[Visit my boring LinkedIn profile] (https://www.linkedin.com/profile/view?id=AAIAABNx9hIBXg55GWDrUyNRJrK486WtArrLNpM&trk=nav_responsive_tab_profile)
+
+Have a good day.
